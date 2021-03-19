@@ -4,8 +4,7 @@ Class assignment instructions:
 
 •	Use C# 8 to create the Console program whose requirements are below.  
 o	One additional class. 
-o	Several Functions. 
-o	Check off:  This program needs to be checked off with the instructor.
+o	Several Functions.
 
 Some requirements:
 •	This program will ask for entry information for an employee, and display to the screen resulting information (based on what was entered)
